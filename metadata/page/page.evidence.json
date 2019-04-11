@@ -6,6 +6,7 @@
       "_id": "page.evidence--fileupload.auto_name__1",
       "_type": "fileupload",
       "label": "Provide evidence that you are {excited, select, no{ not} other{}} excited",
+      "maxSize": "1MB",
       "name": "auto_name__1"
     }
   ],

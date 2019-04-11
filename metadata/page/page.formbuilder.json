@@ -1,0 +1,8 @@
+{
+  "_id": "page.formbuilder",
+  "_type": "page.content",
+  "body": "- Editor\r\n\r\n  Enables you to build a form\r\n- Publisher\r\n\r\n  Enables you to deploy a form to Cloud Platform\r\n- Runner\r\n\r\n  Presents a form to a citizen and captures the data they enter - this!\r\n- Submitter\r\n\r\n  Sends the captured data to its intended recipients",
+  "heading": "What is Form Builder?",
+  "lede": "Form Builder is a way of creating and publishing forms as data, rather than code",
+  "url": "formbuilder"
+}

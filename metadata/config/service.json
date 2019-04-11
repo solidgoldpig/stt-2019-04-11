@@ -1,7 +1,8 @@
 {
   "_id": "service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "code": "STT/2019-04-11",
+  "name": "Show The Thing - 11 April 2019",
   "phase": "alpha",
-  "phaseText": "Service phase text goes here"
+  "phaseText": "Just showing off"
 }

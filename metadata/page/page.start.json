@@ -1,9 +1,11 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "heading": "Show The Thing - 11 April 2019",
-  "lede": "A brief demo of Form Builder’s file upload capability",
+  "body": "A brief demo of Form Builder’s file upload capability.",
+  "heading": "Show The Thing",
+  "lede": "11 April 2019",
   "steps": [
+    "page.formbuilder",
     "page.mood",
     "page.evidence",
     "page.email",

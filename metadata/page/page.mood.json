@@ -6,6 +6,7 @@
       "_id": "page.mood--radios.auto_name__1",
       "_isa": "radios.yes-no",
       "_type": "radios",
+      "hint": "Sorry, Rob’s not here so I can’t do my usual question",
       "legend": "Are you excited to see this file upload demo?",
       "name": "excited"
     }
