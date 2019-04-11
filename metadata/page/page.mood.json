@@ -1,0 +1,14 @@
+{
+  "_id": "page.mood",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.mood--radios.auto_name__1",
+      "_isa": "radios.yes-no",
+      "_type": "radios",
+      "legend": "Are you excited to see this file upload demo?",
+      "name": "excited"
+    }
+  ],
+  "url": "mood"
+}

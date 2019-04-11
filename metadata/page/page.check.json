@@ -1,0 +1,8 @@
+{
+  "_id": "page.check",
+  "_type": "page.summary",
+  "continue": "Send the thing!",
+  "sendBody": "This will probably take a minute or two",
+  "sendHeading": "Now send it",
+  "url": "check"
+}
