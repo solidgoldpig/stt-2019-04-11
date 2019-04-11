@@ -3,6 +3,8 @@
   "_type": "config.service",
   "code": "STT/2019-04-11",
   "name": "Show The Thing - 11 April 2019",
+  "pdfHeading": "Show The Thing",
+  "pdfSubHeading": "11 April 2019",
   "phase": "alpha",
   "phaseText": "Just showing off"
 }
